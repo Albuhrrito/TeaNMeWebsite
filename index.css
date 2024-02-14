@@ -6,7 +6,7 @@ body, html {
   .bgimg {
     background-position: center;
     background-size: cover;
-    background-image: url("/w3images/coffeehouse.jpg");
+    background-image: url("/images/image.png");
     min-height: 75%;
   }
   
