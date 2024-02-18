@@ -17,3 +17,5 @@ function openMenu(evt, menuName) {
   function tabFunction() {
     window.location.href = 'https://www.toasttab.com/6263793109-2256-colorado-blvd-108/v3/?mode=fulfillment';
   }
+
+  
