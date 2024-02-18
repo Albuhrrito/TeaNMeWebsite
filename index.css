@@ -4,7 +4,7 @@ body, html {
     background-color: #E4E2DD;
   }
   
-  .bgimg {
+  #home {
     background-position: center;
     background-size: cover;
     background-image: url("Images/image.png");
